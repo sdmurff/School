@@ -1,0 +1,22 @@
+---
+title: "MS&E 226 - Fall 2016 - HW1"
+author: "Scott Murff"
+date: "Due October 4, 2016, 5:00pm"
+output: pdf_document
+---
+
+# Problem 1
+What is the probability that the yellow M&M came from the 1994 bag?
+
+This question amounts to finding out:
+$$P(M\&M from \ 1994 \ Bag \cap M\&M \ is \ Yellow)$$ 
+
+Because the events are independent, this is equivalent to 
+$$P(M\&M from \ 1994 \ Bag) \times P(M\&M \ is \ Yellow) = \frac{1}{2} \times \frac{20}{100} = 10 \%$$
+
+
+
+# Problem 2
+
+
+# Problem 3
